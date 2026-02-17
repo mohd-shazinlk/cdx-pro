@@ -1,0 +1,5 @@
+backend/authentication/node_modules/
+frontend/authentication/.dart_tool/
+frontend/authentication/build/
+frontend/authentication/.flutter-plugins-dependencies
+frontend/authentication/.packages
